@@ -1,0 +1,3 @@
+# Dereferencing a Null Pointer in C++
+
+This repository demonstrates a common error in C++: dereferencing a null pointer.  Dereferencing a null pointer attempts to access memory at address zero, which is usually invalid and results in a program crash (segmentation fault). This example highlights the importance of null pointer checks before accessing the memory a pointer points to.  The solution shows how to avoid this error with proper null pointer checks.
